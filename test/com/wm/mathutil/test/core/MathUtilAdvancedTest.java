@@ -23,7 +23,7 @@ public class MathUtilAdvancedTest {
     @Parameterized.Parameters
     public static Object[][] initData() {
 //        int a[] = {5, 10, 15, 20};
-        return new Object[][] {{0, 1}, {1, 1}, {2, 2}, {3, 6}, {4, 24}, {5, 1200}};
+        return new Object[][] {{0, 1}, {1, 1}, {2, 2}, {3, 6}, {4, 24}, {5, 120}};
     }
     
     @Parameterized.Parameter(value = 0)
