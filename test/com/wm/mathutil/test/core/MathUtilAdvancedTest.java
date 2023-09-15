@@ -33,7 +33,7 @@ public class MathUtilAdvancedTest {
     public long expected;
     
     @Test
-    public  void testFactorialGivenRightArgumentRunWell() {
+    public void testFactorialGivenRightArgumentRunWell() {
         
         assertEquals(expected, MathUtility.getFactorial(n));
     }

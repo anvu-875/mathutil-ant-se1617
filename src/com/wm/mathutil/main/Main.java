@@ -34,7 +34,7 @@ public class Main {
     /*Dân dev phải có trách nhiệm vs những hàm/method mình viết ra,
     tức là đảm bảo rằng hàm chạy đúng như thiết kế
     hàm getFactorial() dc thiết kế rằng:
-    nếu đưa n < 0 hoặc n > 20 chũi, ném ra ngoại lệ
+    nếu đưa n < 0 hoặc n > 20 chửi, ném ra ngoại lệ
     nếu đưa n = 0... 20 -> tính đúng n!
     TA - DÂN DEV SẼ KIỂM THỬ HÀM ĐÚNG NHƯ THIẾT KẾ HAY KO
     KIỂM THỬ - DÙNG THỬ - MÔ PHỎNG CÁC TÌNH HUỐNG - CASE
